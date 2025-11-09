@@ -1,5 +1,4 @@
 mod ui;
 
-fn main() {
-    ui::test();
-}
+// Program entry point.
+fn main() {}
