@@ -10,6 +10,6 @@ fn main() {
         env!("CARGO_PKG_AUTHORS"),
         env!("CARGO_PKG_NAME"),
     )
-    .unwrap(); // If this panics, so be it. It is crucial to the program running.
+    .expect("Could not load project directories.");
     dbg!(&project_dirs);
 }
