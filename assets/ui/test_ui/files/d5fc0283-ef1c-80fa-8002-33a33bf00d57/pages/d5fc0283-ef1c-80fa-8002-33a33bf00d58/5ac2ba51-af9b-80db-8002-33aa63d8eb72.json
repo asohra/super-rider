@@ -1,0 +1,71 @@
+{
+  "id": "5ac2ba51-af9b-80db-8002-33aa63d8eb72",
+  "name": "Buidlings",
+  "type": "group",
+  "x": 68,
+  "y": 593,
+  "width": 1802,
+  "height": 915,
+  "rotation": null,
+  "selrect": {
+    "x": 68,
+    "y": 593,
+    "width": 1802,
+    "height": 915,
+    "x1": 68,
+    "y1": 593,
+    "x2": 1870,
+    "y2": 1508
+  },
+  "points": [
+    {
+      "x": 68,
+      "y": 593
+    },
+    {
+      "x": 1870,
+      "y": 593
+    },
+    {
+      "x": 1870,
+      "y": 1508
+    },
+    {
+      "x": 68,
+      "y": 1508
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "99710460-af70-80c2-8002-33a33edcfba1",
+  "frameId": "99710460-af70-80c2-8002-33a33edcfba1",
+  "flipX": null,
+  "flipY": null,
+  "index": 9,
+  "exports": [],
+  "shapes": [
+    "5ac2ba51-af9b-80db-8002-33a99a9b9abe",
+    "5ac2ba51-af9b-80db-8002-33a9a267885f",
+    "5ac2ba51-af9b-80db-8002-33a9a8a53ca0",
+    "5ac2ba51-af9b-80db-8002-33a9ade09693",
+    "5ac2ba51-af9b-80db-8002-33a9b4465056",
+    "5ac2ba51-af9b-80db-8002-33a9b769d620",
+    "5ac2ba51-af9b-80db-8002-33a9b9807548",
+    "5ac2ba51-af9b-80db-8002-33a9bc97c38f"
+  ],
+  "pageId": "d5fc0283-ef1c-80fa-8002-33a33bf00d58"
+}

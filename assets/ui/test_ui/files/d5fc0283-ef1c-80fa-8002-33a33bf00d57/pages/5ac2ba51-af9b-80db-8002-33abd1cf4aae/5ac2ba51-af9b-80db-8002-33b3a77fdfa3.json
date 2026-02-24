@@ -1,0 +1,140 @@
+{
+  "id": "5ac2ba51-af9b-80db-8002-33b3a77fdfa3",
+  "name": "Text",
+  "type": "text",
+  "x": 983,
+  "y": 461,
+  "width": 204,
+  "height": 60,
+  "rotation": 0,
+  "selrect": {
+    "x": 983,
+    "y": 461,
+    "width": 204,
+    "height": 60,
+    "x1": 983,
+    "y1": 461,
+    "x2": 1187,
+    "y2": 521
+  },
+  "points": [
+    {
+      "x": 983,
+      "y": 461
+    },
+    {
+      "x": 1187,
+      "y": 461
+    },
+    {
+      "x": 1187,
+      "y": 521
+    },
+    {
+      "x": 983,
+      "y": 521
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "5ac2ba51-af9b-80db-8002-33abd4e53bd3",
+  "frameId": "5ac2ba51-af9b-80db-8002-33abd4e53bd3",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "index": null,
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "48",
+                "fontWeight": "400",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#e8e9ea",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Gunblade"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "key": "b749o",
+            "fontSize": "48",
+            "fontWeight": "400",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#e8e9ea",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ],
+    "fills": []
+  },
+  "layoutItemHSizing": "fix",
+  "layoutItemVSizing": "fix",
+  "positionData": [
+    {
+      "y": 520,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "width": 195.796875,
+      "textDecoration": "none solid rgb(232, 233, 234)",
+      "letterSpacing": "normal",
+      "x": 983,
+      "fills": [
+        {
+          "fillColor": "#e8e9ea",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "height": 62,
+      "text": "Gunblade"
+    }
+  ],
+  "pageId": "5ac2ba51-af9b-80db-8002-33abd1cf4aae"
+}

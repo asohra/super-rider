@@ -1,0 +1,140 @@
+{
+  "id": "5ac2ba51-af9b-80db-8002-33b3848ddeb7",
+  "name": "Text",
+  "type": "text",
+  "x": 787,
+  "y": 461,
+  "width": 151,
+  "height": 60,
+  "rotation": 0,
+  "selrect": {
+    "x": 787,
+    "y": 461,
+    "width": 151,
+    "height": 60,
+    "x1": 787,
+    "y1": 461,
+    "x2": 938,
+    "y2": 521
+  },
+  "points": [
+    {
+      "x": 787,
+      "y": 461
+    },
+    {
+      "x": 938,
+      "y": 461
+    },
+    {
+      "x": 938,
+      "y": 521
+    },
+    {
+      "x": 787,
+      "y": 521
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "5ac2ba51-af9b-80db-8002-33abd4e53bd3",
+  "frameId": "5ac2ba51-af9b-80db-8002-33abd4e53bd3",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "index": null,
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "48",
+                "fontWeight": "400",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#e8e9ea",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Fighter"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "key": "6pa18",
+            "fontSize": "48",
+            "fontWeight": "400",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#e8e9ea",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ],
+    "fills": []
+  },
+  "layoutItemHSizing": "fix",
+  "layoutItemVSizing": "fix",
+  "positionData": [
+    {
+      "y": 520,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "width": 141.96875,
+      "textDecoration": "none solid rgb(232, 233, 234)",
+      "letterSpacing": "normal",
+      "x": 787,
+      "fills": [
+        {
+          "fillColor": "#e8e9ea",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "height": 62,
+      "text": "Fighter"
+    }
+  ],
+  "pageId": "5ac2ba51-af9b-80db-8002-33abd1cf4aae"
+}

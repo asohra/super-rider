@@ -1,0 +1,140 @@
+{
+  "id": "5ac2ba51-af9b-80db-8002-33b3caeac971",
+  "name": "Text",
+  "type": "text",
+  "x": 741,
+  "y": 561,
+  "width": 197,
+  "height": 55,
+  "rotation": 0,
+  "selrect": {
+    "x": 741,
+    "y": 561,
+    "width": 197,
+    "height": 55,
+    "x1": 741,
+    "y1": 561,
+    "x2": 938,
+    "y2": 616
+  },
+  "points": [
+    {
+      "x": 741,
+      "y": 561
+    },
+    {
+      "x": 938,
+      "y": 561
+    },
+    {
+      "x": 938,
+      "y": 616
+    },
+    {
+      "x": 741,
+      "y": 616
+    }
+  ],
+  "transform": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "transformInverse": {
+    "a": 1.0,
+    "b": 0.0,
+    "c": 0.0,
+    "d": 1.0,
+    "e": 0.0,
+    "f": 0.0
+  },
+  "parentId": "5ac2ba51-af9b-80db-8002-33abd4e53bd3",
+  "frameId": "5ac2ba51-af9b-80db-8002-33abd4e53bd3",
+  "flipX": null,
+  "flipY": null,
+  "growType": "fixed",
+  "index": null,
+  "content": {
+    "type": "root",
+    "children": [
+      {
+        "type": "paragraph-set",
+        "children": [
+          {
+            "lineHeight": "1.2",
+            "fontStyle": "normal",
+            "children": [
+              {
+                "lineHeight": "1.2",
+                "fontStyle": "normal",
+                "textTransform": "none",
+                "textAlign": "left",
+                "fontId": "sourcesanspro",
+                "fontSize": "48",
+                "fontWeight": "400",
+                "fontVariantId": "regular",
+                "textDecoration": "none",
+                "letterSpacing": "0",
+                "fills": [
+                  {
+                    "fillColor": "#e8e9ea",
+                    "fillOpacity": 1
+                  }
+                ],
+                "fontFamily": "sourcesanspro",
+                "text": "Destroyer"
+              }
+            ],
+            "textTransform": "none",
+            "textAlign": "left",
+            "fontId": "sourcesanspro",
+            "key": "956g9",
+            "fontSize": "48",
+            "fontWeight": "400",
+            "type": "paragraph",
+            "fontVariantId": "regular",
+            "textDecoration": "none",
+            "letterSpacing": "0",
+            "fills": [
+              {
+                "fillColor": "#e8e9ea",
+                "fillOpacity": 1
+              }
+            ],
+            "fontFamily": "sourcesanspro"
+          }
+        ]
+      }
+    ],
+    "fills": []
+  },
+  "layoutItemHSizing": "fix",
+  "layoutItemVSizing": "fix",
+  "positionData": [
+    {
+      "y": 620,
+      "fontStyle": "normal",
+      "textTransform": "none",
+      "fontSize": "48px",
+      "fontWeight": "400",
+      "width": 194.28125,
+      "textDecoration": "none solid rgb(232, 233, 234)",
+      "letterSpacing": "normal",
+      "x": 741,
+      "fills": [
+        {
+          "fillColor": "#e8e9ea",
+          "fillOpacity": 1
+        }
+      ],
+      "direction": "ltr",
+      "fontFamily": "sourcesanspro",
+      "height": 62,
+      "text": "Destroyer"
+    }
+  ],
+  "pageId": "5ac2ba51-af9b-80db-8002-33abd1cf4aae"
+}
